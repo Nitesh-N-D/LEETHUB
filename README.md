@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
