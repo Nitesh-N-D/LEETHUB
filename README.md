@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
