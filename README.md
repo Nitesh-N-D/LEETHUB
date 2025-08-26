@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
