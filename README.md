@@ -51,10 +51,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
