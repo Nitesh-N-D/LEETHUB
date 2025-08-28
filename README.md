@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
