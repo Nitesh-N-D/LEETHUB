@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 ## Two Pointers
