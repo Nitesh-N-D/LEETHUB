@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
+| [3617-find-the-original-typed-string-i](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
 | ------- |
