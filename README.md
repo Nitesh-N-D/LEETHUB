@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0231-power-of-two) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
