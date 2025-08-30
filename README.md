@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
