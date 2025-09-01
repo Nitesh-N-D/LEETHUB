@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
