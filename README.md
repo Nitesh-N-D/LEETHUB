@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0283-move-zeroes) |
+| [1944-truncate-sentence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1944-truncate-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
+| [1944-truncate-sentence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1944-truncate-sentence) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
