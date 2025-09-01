@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/3617-find-the-original-typed-string-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
