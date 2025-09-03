@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
