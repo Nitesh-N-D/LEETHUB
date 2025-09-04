@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2491-smallest-even-multiple) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0100-same-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
