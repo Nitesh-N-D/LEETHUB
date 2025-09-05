@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [1944-truncate-sentence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
