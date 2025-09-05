@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [1944-truncate-sentence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/3617-find-the-original-typed-string-i) |
