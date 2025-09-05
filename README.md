@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1236-n-th-tribonacci-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [1944-truncate-sentence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1944-truncate-sentence) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
