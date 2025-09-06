@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2032-largest-odd-number-in-string](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/2556-convert-the-temperature) |
