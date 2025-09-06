@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/1086-divisor-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Nitesh-N-D/MYLEETCODE/tree/master/0367-valid-perfect-square) |
 ## Stack
 |  |
 | ------- |
